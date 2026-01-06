@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "aboutCancer": "Sobre el Cáncer",
+    "warriors": "Warriors",
+    "volunteers": "Voluntarios",
+    "blog": "Blog",
+    "events": "Eventos",
+    "donate": "Donar Ahora"
+  },
+  "hero": {
+    "badge": "Más de 100 sueños cumplidos en 2024",
+    "title1": "Juntos contra",
+    "title2": "el cáncer",
+    "subtitle": "Cumplimos sueños y damos esperanza a warriors que luchan cada día. Tu apoyo transforma vidas.",
+    "ctaDonate": "Donar Ahora",
+    "ctaStories": "Ver Historias"
+  },
+  "impact": {
+    "title": "Nuestro Impacto en",
+    "titleHighlight": "Números",
+    "donated": "Donado en 2024",
+    "dreamsFulfilled": "Sueños Cumplidos",
+    "warriorsSupported": "Warriors Apoyados",
+    "activeVolunteers": "Voluntarios Activos"
+  },
+  "footer": {
+    "description": "Juntos contra el cáncer. Cumplimos sueños y damos esperanza a warriors que luchan cada día.",
+    "copyright": "Tutti Cancer Warriors. Todos los derechos reservados."
+  }
+}
